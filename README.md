@@ -39,18 +39,18 @@ Queries Performed:
 Each query helps uncover different aspects of performance, engagement, or trend patterns.
 
 Tech Stack & Tools:
-💻 MySQL (SQL)
-📝 Visual Studio Code
-🛠️ Local MySQL Server
-📂 .sql scripts organized for reuse and testing
+- MySQL (SQL)
+- Visual Studio Code
+- Local MySQL Server
+- .sql scripts organized for reuse and testing
 All scripts are written using standard MySQL syntax and are designed to run efficiently in any local or cloud-based SQL environment.
 
 Real-World Relevance:
 The techniques demonstrated here are directly applicable to many real-world roles:
-📊 Data Analysts generating reports from transactional databases
-📈 Business Intelligence teams identifying KPIs and engagement metrics
-🎓 EdTech developers optimizing learning platforms using progress analytics
-🧑‍🏫 Academic institutions tracking student performance and dropout rates
+- Data Analysts generating reports from transactional databases
+- Business Intelligence teams identifying KPIs and engagement metrics
+- EdTech developers optimizing learning platforms using progress analytics
+- Academic institutions tracking student performance and dropout rates
 
 This project was a great exercise in thinking like a data analyst. I learned how to:
 1. Break down complex logic using CTEs.
