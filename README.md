@@ -18,11 +18,11 @@ This project simulates a simplified online learning platform where students enro
 By using realistic sample data, I was able to write and test complex SQL queries that solve meaningful analytical problems—ranging from student performance tracking to course engagement and monthly trends.
 
 This project helped reinforce some of the most powerful SQL concepts used in real data-driven roles:
-✅ Common Table Expressions (CTEs): Used to simplify and structure complex queries.
-✅ Subqueries: Used to perform nested lookups such as finding each student’s lowest performing course.
-✅ Window Functions: Used to rank students and rank courses for each individual student.
-✅ Aggregation & Filtering: For monthly trends, average progress, and identifying underperforming segments.
-✅ JOIN operations: To bring together data from multiple relational tables in meaningful ways.
+1. Common Table Expressions (CTEs): Used to simplify and structure complex queries.
+2. Subqueries: Used to perform nested lookups such as finding each student’s lowest performing course.
+3. Window Functions: Used to rank students and rank courses for each individual student.
+4. Aggregation & Filtering: For monthly trends, average progress, and identifying underperforming segments.
+5. JOIN operations: To bring together data from multiple relational tables in meaningful ways.
 Each SQL query is written with simplicity and clarity in mind, and inline comments are included to explain what each part of the query does.
 
 The students table contains basic student information.
