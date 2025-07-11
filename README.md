@@ -58,3 +58,7 @@ This project was a great exercise in thinking like a data analyst. I learned how
 3. Use subqueries for personalized data views.
 4. Present trend reports using date-based aggregation.
 Overall, it was a great hands-on experience that helped me bridge the gap between basic SQL syntax and practical data analysis techniques.
+
+#OUTPUT
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/66bf6202-2900-44fd-bf13-792706d40c68" />
